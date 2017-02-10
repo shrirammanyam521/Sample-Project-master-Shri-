@@ -1,5 +1,5 @@
 /**
- * Created by btippabhotla on 7/16/15.
+ * Created by shrirammanyam on 7/16/15.
  */
 //angular.module('ui.bootstrap.demo', ['ui.bootstrap']);
 angular.module('myDashboardApp').controller('CarouselDemoCtrl', function ($scope) {
