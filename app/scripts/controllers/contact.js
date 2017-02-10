@@ -1,5 +1,5 @@
 /**
- * Created by btippabhotla on 7/14/15.
+ * Created by shriram on 7/14/15.
  */
 
 angular.module('myDashboardApp')
